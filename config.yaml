@@ -1,4 +1,4 @@
-baseURL: https://vigilo.city/
+baseURL: https://black-puppydog.github.io/vigilo-website/
 languageCode: fr-FR
 defaultContentLanguage: fr
 title: À pied ou à vélo, ayez le réflexe Vigilo
@@ -13,7 +13,7 @@ markup:
       unsafe: true
 
 params:
-  editURL: 'https://github.com/jesuisundesdeux/vigilo-website/edit/source/content/'
+  editURL: "https://github.com/jesuisundesdeux/vigilo-website/edit/source/content/"
   description: À pied ou à vélo, ayez le réflexe Vigilo
   author: JeSuisUnDesDeux
   showVisitedLinks: true
