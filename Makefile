@@ -1,4 +1,4 @@
-VERSION := 0.55.4
+VERSION := latest
 FILEIGNORE := "/site/fr/api/index.html/"
 makefile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 pwd := $(dir $(makefile_path))
@@ -13,7 +13,7 @@ help:
 	@grep "##" Makefile | grep -v "@grep"
 
 themes/hugo-theme-learn:
-	git clone https://github.com/badele/hugo-theme-learn.git themes/hugo-theme-learn
+	git clone https://github.com/matcornic/hugo-theme-learn.git themes/hugo-theme-learn
 
 version: ## Show hugo version
 	docker run --rm -it klakegg/hugo:${VERSION} version

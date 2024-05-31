@@ -7,6 +7,11 @@ themesdir: themes/
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: true
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   editURL: 'https://github.com/jesuisundesdeux/vigilo-website/edit/source/content/'
   description: À pied ou à vélo, ayez le réflexe Vigilo
