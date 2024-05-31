@@ -12,7 +12,7 @@ Pipfile.lock
 content/villes/aix-marseille-provence-metropole-fr
 
 # Add from make generate-cities-content
-content/villes/amiens-fr
+content/villes/annemasse-agglo-fr
 
 # Add from make generate-cities-content
 content/villes/bassin-d-arcachon-fr
@@ -24,10 +24,19 @@ content/villes/beauvaisis-fr
 content/villes/brest-metropole-fr
 
 # Add from make generate-cities-content
+content/villes/evian-les-bains-fr
+
+# Add from make generate-cities-content
+content/villes/evreux-fr
+
+# Add from make generate-cities-content
 content/villes/nord-isere-(apie)-fr
 
 # Add from make generate-cities-content
-content/villes/mons-be
+content/villes/la-rochelle-fr
+
+# Add from make generate-cities-content
+content/villes/lorient-agglo-fr
 
 # Add from make generate-cities-content
 content/villes/grand-montpellier-fr
@@ -36,16 +45,25 @@ content/villes/grand-montpellier-fr
 content/villes/nantes-metropole-fr
 
 # Add from make generate-cities-content
+content/villes/metropole-nice-cote-d-azur-fr
+
+# Add from make generate-cities-content
 content/villes/paris-saclay-fr
 
 # Add from make generate-cities-content
 content/villes/perigueux-agglo-fr
 
 # Add from make generate-cities-content
+content/villes/quimper-communaute-fr
+
+# Add from make generate-cities-content
 content/villes/saint-marcellin-vercors-isere-communaute-fr
 
 # Add from make generate-cities-content
 content/villes/saint-brieuc-armor-agglomeration-fr
+
+# Add from make generate-cities-content
+content/villes/saint-lo-agglo-fr
 
 # Add from make generate-cities-content
 content/villes/strasbourg-fr
@@ -57,8 +75,17 @@ content/villes/sud-oise-fr
 content/villes/thau-fr
 
 # Add from make generate-cities-content
+content/villes/toulon---var-fr
+
+# Add from make generate-cities-content
 content/villes/agglomeration-troyenne-fr
 
 # Add from make generate-cities-content
 content/villes/vannes-fr
+
+# Add from make generate-cities-content
+content/villes/bordeaux-metropole-fr
+
+# Add from make generate-cities-content
+content/villes/pays-de-chateaugiron-fr
 

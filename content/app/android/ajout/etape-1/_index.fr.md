@@ -8,12 +8,12 @@ Ceci est une page de demo
 
 ### Selection photo depuis galerie
 
-![Magic](/fr/app/android/ajout/etape-1/images/etape-1.jpg?width=300&classes=shadow)
+![Magic](images/etape-1.jpg?width=300&classes=shadow)
 
 ### Selection repertoire 
 
-![Magic](/fr/app/android/ajout/etape-1/images/etape-2.jpg?width=300&classes=shadow)
+![Magic](images/etape-2.jpg?width=300&classes=shadow)
 
 ### Selection photo & validation
 
-![Magic](/fr/app/android/ajout/etape-1/images/etape-3.jpg?width=300&classes=shadow)
+![Magic](images/etape-3.jpg?width=300&classes=shadow)
