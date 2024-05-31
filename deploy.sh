@@ -4,7 +4,7 @@ set -e
 
 echo $GITHUB_AUTH_SECRET > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
-git config --global user.email "vigilo-wrbsite-bot>@users.noreply.github.com"
+git config --global user.email "vigilo-website-bot@users.noreply.github.com"
 git config --global user.name "Vigilo website bot"
 git config --global push.default simple
 
