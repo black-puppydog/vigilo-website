@@ -5,7 +5,18 @@ weight: 2
 
 ## Installation du back-end
 
-Chaque instance dispose de son backend qui peut être installé de deux manières possibles.
+Les parties communs pour toutes les installations sont que l'appli android et l'appli web.
+Les deux sont configurés par les utilisateurs pour se connecter au backend de leur association.
+
+Une fois chargé du serveur et la région selectionnée, le site web ne communique qu'avec le backend hébergé sur le serveur de l'association qui gère les données pour cette région.
+De même pour l'application Android, elle est configurée pour se connecter au backend de l'association.
+
+Il est donc a vous en tant qua association d'héberger votre backend pour votre région.
+Cela comporte les APIs pour l'application Android et le site web (comme par exemple [`get_issues.php`](/fr/api/#récupération-liste-observations)) ainsi que les pages d'administration comme `/admin/index.php`.
+En resultat, toutes les données sont stockées sur votre serveur et il est de votre responsabilité de les protéger.
+
+Le backend qui peut être installé de deux manières possibles.
+
 
 ### Serveur dédié avec Docker :
 
